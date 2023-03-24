@@ -11,7 +11,7 @@
 ### Sobre
 
 - 👋🏽 Me chamo Johnny, tenho 20 anos e moro em Brasília-DF.
-- 📚 Estudante de **Ciência da Computação 6/8** na Universidade Católica de Brasília.
+- 📚 Estudante de **Ciência da Computação 7/8** na Universidade Católica de Brasília.
 - 👨🏽‍💻 iOS Developer na **Apple Developer Academy | UCB**.
 - 👦🏽 Iniciei na área desenvolvimento através do Java com 14 anos de idade.
 - 🖥 Atualmente atuando com desenvolvimento para as plataformas Apple.
